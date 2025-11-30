@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39ccd957-2b0d-4c60-b09f-a2bc6b231198" name="Changes" comment="" />
+    <list default="true" id="39ccd957-2b0d-4c60-b09f-a2bc6b231198" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Frontend/src/app/core/services/booking.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../Frontend/src/app/core/services/booking.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/src/app/features/driver/bookings/bookings.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../Frontend/src/app/features/driver/bookings/bookings.component.ts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -105,6 +108,9 @@
       <workItem from="1764416003527" duration="1718000" />
       <workItem from="1764425842674" duration="121000" />
       <workItem from="1764425979670" duration="7781000" />
+      <workItem from="1764452446254" duration="147000" />
+      <workItem from="1764452657166" duration="864000" />
+      <workItem from="1764501413193" duration="633000" />
     </task>
     <servers />
   </component>
