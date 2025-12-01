@@ -5,8 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39ccd957-2b0d-4c60-b09f-a2bc6b231198" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Frontend/src/app/core/services/booking.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../Frontend/src/app/core/services/booking.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Frontend/src/app/core/services/gemini.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Frontend/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../Frontend/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/src/app/core/models/notification.model.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../Frontend/src/app/core/models/notification.model.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/src/app/core/services/notification.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../Frontend/src/app/core/services/notification.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/src/app/core/state/auth.store.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../Frontend/src/app/core/state/auth.store.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/src/app/core/state/notifications.store.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../Frontend/src/app/core/state/notifications.store.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/src/app/features/admin/dashboard/admin-dashboard.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../Frontend/src/app/features/admin/dashboard/admin-dashboard.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/src/app/features/admin/reports/reports.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../Frontend/src/app/features/admin/reports/reports.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/src/app/features/admin/rides/rides.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../Frontend/src/app/features/admin/rides/rides.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/src/app/features/admin/users/users.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../Frontend/src/app/features/admin/users/users.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Frontend/src/app/features/driver/bookings/bookings.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../Frontend/src/app/features/driver/bookings/bookings.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/src/app/features/driver/dashboard/driver-dashboard.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../Frontend/src/app/features/driver/dashboard/driver-dashboard.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/src/app/features/driver/profile.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../Frontend/src/app/features/driver/profile.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/src/app/features/driver/rides/rides.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../Frontend/src/app/features/driver/rides/rides.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/src/app/features/passenger/book-ride/book-ride.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../Frontend/src/app/features/passenger/book-ride/book-ride.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/src/app/features/passenger/bookings/bookings.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../Frontend/src/app/features/passenger/bookings/bookings.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/src/app/features/passenger/dashboard/passenger-dashboard.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../Frontend/src/app/features/passenger/dashboard/passenger-dashboard.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/src/app/shared/components/navbar/navbar.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../Frontend/src/app/shared/components/navbar/navbar.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/src/app/shared/components/settings/profile.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../Frontend/src/app/shared/components/settings/profile.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/src/environments/environment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../Frontend/src/environments/environment.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +131,10 @@
       <workItem from="1764425979670" duration="7781000" />
       <workItem from="1764452446254" duration="147000" />
       <workItem from="1764452657166" duration="864000" />
-      <workItem from="1764501413193" duration="633000" />
+      <workItem from="1764501413193" duration="976000" />
+      <workItem from="1764529865009" duration="297000" />
+      <workItem from="1764531153019" duration="1238000" />
+      <workItem from="1764543751630" duration="3169000" />
     </task>
     <servers />
   </component>
